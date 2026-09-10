@@ -1,0 +1,7 @@
+{
+  "name": "ProofCV",
+  "description": "AI-powered evidence-based resume analysis and hiring platform connecting resume claims to verified proof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
